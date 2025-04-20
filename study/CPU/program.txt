@@ -1,4 +1,0 @@
-jal r1, 4
-beq r0, r1, 2
-lui r2, 0xFF
-lw r3, 0(r2)
